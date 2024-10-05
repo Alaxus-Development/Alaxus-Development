@@ -33,5 +33,5 @@
 
 ## 📝 Contact Us
 - [Discord Support](https://discord.gg/aSwtyvurw3)<br/>
-- [Mail Me](mailto:info@alaxus.xyz)<br/><br/>
+- [Mail Us](mailto:info@alaxus.xyz)<br/><br/>
 
