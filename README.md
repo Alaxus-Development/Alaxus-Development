@@ -9,7 +9,6 @@
 
 <p align="center">
     <a href="https://discord.gg/aSwtyvurw3"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="Alaxus-Development" width="85" height="20"/></a>
-    <a href="https://alaxus.xyz"><img src="https://alaxus.xyz/assets/img/logo.gif" alt="GitHub Badge"></a>
 </p>
 <br>
 <p align="center">
