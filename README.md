@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, we are Alaxus-Development</h1>
-<h3 align="center">A wild bot with lots of features!</h3>
+<h3 align="center">Alaxus is a wild bot with lots of features!</h3>
 
 <br>
 
