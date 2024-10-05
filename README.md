@@ -17,12 +17,13 @@
 <br>
 
 ## 🤔 What is Alaxus?
-- We are a Multitool Discord Bot for your Discord Servers
+- Alaxus is a Multitool Discord Bot for your Discord Servers.
+- Alaxus have lots of features!
 <br/>
 
 ## 🔥 Why Alaxus?
 - It's a multitool Discord Bot that works perfectly for your Discord.
-- We have a Multilanguage System (English/German)
+- Alaxus have a Multilanguage System (English/German)
 <br/>
 
 ## 🔎 About Us
